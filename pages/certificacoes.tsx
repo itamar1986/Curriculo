@@ -5,6 +5,7 @@ import Footer from '../comps/Footer';
 import Image from 'react-bootstrap/Image';
 import { Container, Jumbotron } from 'reactstrap';
 import Link from 'next/link';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const certificacoes = () => {
     return (
