@@ -124,7 +124,7 @@ const certificacoes = () => {
                         </div>
                     </div>
                 </div>
-                <p align="right">
+                <p>
                     <Link href="/certificacoesMais">mais ➤➤➤</Link>
                 </p>
             </div>
