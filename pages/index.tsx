@@ -1,10 +1,10 @@
 import React from 'react';
-import Layout from '../comps/Layout';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Certificacoes from '../comps/Certificacoes';
 
 const Index = () => {
   return (
-    <Layout />
+    <Certificacoes />
   );
 };
 
