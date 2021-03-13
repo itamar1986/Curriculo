@@ -46,7 +46,7 @@ const Certificacoes = () => {
                         </CardBody>
                     </Col>
                 </Row>
-                <p><Link href="/certificacoes">Confira as certificações...</Link></p>
+                <p style={{textAlign: 'right'}}><Link href="/certificacoes">Confira as certificações...</Link></p>
             </Container>
         </div>
     );

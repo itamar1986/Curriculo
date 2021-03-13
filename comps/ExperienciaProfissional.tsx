@@ -46,7 +46,7 @@ const ExperienciaProfissional = () => {
                         </CardBody>
                     </Col>
                 </Row>
-                <p>
+                <p style={{textAlign: 'right'}}>
                     <Link href="/experiencias">Confira outras experiências...</Link>
                 </p>
             </Container>

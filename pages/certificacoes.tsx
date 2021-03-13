@@ -125,7 +125,7 @@ const certificacoes = () => {
                         </div>
                     </div>
                 </div>
-                <p>
+                <p style={{textAlign: 'right'}}>
                     <Link href="/certificacoesMais">mais ➤➤➤</Link>
                 </p>
             </div>
