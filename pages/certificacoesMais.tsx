@@ -20,10 +20,12 @@ const certificacoesMais = () => {
         <Table responsive bordered>
           <thead>
             <tr>
+              <td><a href="erro1.gif" target="_blank">carregando...</a></td>
+              <td><a href="erro1.gif" target="_blank">carregando...</a></td>
               <td><a href="82_Formação Clojure.pdf" target="_blank">Formação Clojure</a></td>
               <td><a href="81_Clojure_Geradores e testes de propriedades.pdf" target="_blank">Geradores e testes de</a><a href="81_Clojure_Geradores e testes de propriedades1.pdf" target="_blank"> propriedades</a></td>
               <td><a href="80_Bootcamp React Web Developer.pdf" target="_blank">Bootcamp React Web Developer</a></td>
-              <td colspan="3"><a href="79_Curso Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo.pdf" target="_blank">Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo</a></td>
+              <td><a href="79_Curso Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo.pdf" target="_blank">Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo</a></td>
             </tr>
           </thead>
           <tbody>
