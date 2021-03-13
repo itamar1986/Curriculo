@@ -4,7 +4,6 @@ import Menu from '../comps/Menu';
 import Footer from '../comps/Footer';
 import { Jumbotron, Container, Table } from 'reactstrap';
 import Link from 'next/link';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 const certificacoesMais = () => {
   return (

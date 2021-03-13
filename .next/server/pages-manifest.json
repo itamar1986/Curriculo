@@ -3,5 +3,8 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/certificacoes": "pages/certificacoes.js"
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
+  "/experiencias": "pages/experiencias.js",
+  "/certificacoes": "pages/certificacoes.js",
+  "/certificacoesMais": "pages/certificacoesMais.js"
 }

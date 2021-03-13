@@ -33,6 +33,21 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/certificacoes.js"
+    ],
+    "/certificacoesMais": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/certificacoesMais.js"
+    ],
+    "/experiencias": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/experiencias.js"
+    ],
+    "/next/dist/pages/_error": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/next/dist/pages/_error.js"
     ]
   },
   "ampFirstPages": []
