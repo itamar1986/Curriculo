@@ -20,8 +20,8 @@ const certificacoesMais = () => {
         <Table responsive bordered>
           <thead>
             <tr>
-              <td><a href="erro1.gif" target="_blank">carregando...</a></td>
-              <td><a href="erro1.gif" target="_blank">carregando...</a></td>
+              <td><a href="erro.gif" target="_blank">carregando...</a></td>
+              <td><a href="erro.gif" target="_blank">carregando...</a></td>
               <td><a href="82_Formação Clojure.pdf" target="_blank">Formação Clojure</a></td>
               <td><a href="81_Clojure_Geradores e testes de propriedades.pdf" target="_blank">Geradores e testes de</a><a href="81_Clojure_Geradores e testes de propriedades1.pdf" target="_blank"> propriedades</a></td>
               <td><a href="80_Bootcamp React Web Developer.pdf" target="_blank">Bootcamp React Web Developer</a></td>
