@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=react.JS&color=blue&style=for-the-badge&logo=REACTJS"/>
-
   <img src="https://img.shields.io/static/v1?label=&message=next.JS&color=black&style=for-the-badge&logo=NEXTJS"/>
 </p>
+
+> Status do Projeto: :warning: (em constantes mudanças)
