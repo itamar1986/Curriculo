@@ -14,9 +14,9 @@
 ## Descrição do projeto 
 
 <p align="justify">
-Projeto realizado com intuito de aprimorar as noções de desenvolvimento de sistema, usando o frem. 
+Projeto realizado com intuito de aprimorar as noções de desenvolvimento de sistema usando o framework NextJS. 
 
 Um currículo bem estruturado é uma potencial ferramenta para chamar a atenção de um recrutador. Ele é a porta de entrada para entrevistas e possíveis empregos e deve ser bem estruturado para garantir o sucesso.
 
-O currículo é o "Marketing Pessoal" que necessita estar sempre atualizado.
+Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 </p>
