@@ -10,6 +10,7 @@
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Instalações e Dependências](#instalações-e-dependências)
 
 ## Descrição do projeto 
 
