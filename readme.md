@@ -21,3 +21,5 @@ Um currículo bem estruturado é uma potencial ferramenta para chamar a atençã
 
 Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 </p>
+
+## Instalações e Dependências
