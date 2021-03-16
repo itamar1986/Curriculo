@@ -29,6 +29,26 @@ Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 
 ## Documentação
 
+> <a href="https://medium.com/matilha-est%C3%BAdio/porque-voc%C3%AA-precisa-conhecer-o-next-js-358f6ba4c1ee" target="_blank">Porque você precisa conhecer o NEXT.js</a>
+
+> <a href="https://dev.to/caiomdias/criando-meu-primeiro-project-starter-com-next-js-2fii" target="_blank">Criando meu project starter com Next.JS</a>
+
+> <a href="https://www.youtube.com/watch?v=90EGEu8tqY8" target="_blank">Como integrar o React com Bootstrap</a>
+
+> <a href="https://react-bootstrap.github.io/getting-started/introduction" target="_blank">Aprenda como incluir React Bootstrap em seu projeto</a>
+
+> <a href="https://reactstrap.github.io/" target="_blank">Componentes React Bootstrap</a>
+
+> <a href="https://mdbootstrap.com/docs/standard/components/buttons/" target="_blank">Componente Bootstrap Button</a>
+
+> <a href="https://materializecss.com/color.html" target="_blank">Materialize Color Palette</a>
+
+> <a href="https://react-icons.github.io/react-icons/" target="_blank">React Icons</a>
+
+> <a href="https://material-ui.com/pt/" target="_blank">MATERIAL-UI</a>
+
+> <a href="https://material.io/components/bottom-navigation" target="_blank">MATERIAL DESIGN</a>
+
 ## Desenvolvedores/Contribuintes :octocat:
 
 Responsável pelo desenvolvimento do projeto
