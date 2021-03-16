@@ -57,6 +57,10 @@ Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 
 > <a href="https://material.io/components/bottom-navigation" target="_blank">MATERIAL DESIGN</a>
 
+> <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
+
+> <a href="https://github.com/scotch-io/All-Github-Emoji-Icons" target="_blank">Emoji Icons</a>
+
 ## Desenvolvedores/Contribuintes :octocat:
 
 Responsável pelo desenvolvimento do projeto
@@ -65,3 +69,5 @@ Responsável pelo desenvolvimento do projeto
 | :---: |
 
 ## Linkedin <a href="https://www.linkedin.com/in/itamar-santos-da-silva-463b0a176" target="_blank"> Itamar Santos da Silva</a>
+
+<h5 align="center">I'm a code booster</h5>
