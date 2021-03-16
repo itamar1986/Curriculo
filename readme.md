@@ -23,3 +23,5 @@ Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 </p>
 
 ## Instalações e Dependências
+
+## Desenvolvedores/Contribuintes :octocat:
