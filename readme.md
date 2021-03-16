@@ -25,3 +25,5 @@ Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 ## Instalações e Dependências
 
 ## Desenvolvedores/Contribuintes :octocat:
+
+Responsável pelo desenvolvimento do projeto
