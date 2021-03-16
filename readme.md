@@ -27,6 +27,14 @@ Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 
 ## Instalações e Dependências
 
+:boom: yarn add typescript @types/node @types/react @types/react-dom @types/jest
+
+:boom: yarn run tsc --init
+
+:boom: yarn add styled-components
+
+:boom: yarn add @types/styled-components -D
+
 ## Documentação
 
 > <a href="https://medium.com/matilha-est%C3%BAdio/porque-voc%C3%AA-precisa-conhecer-o-next-js-358f6ba4c1ee" target="_blank">Porque você precisa conhecer o NEXT.js</a>
@@ -37,7 +45,7 @@ Ele é o "Marketing Pessoal" que necessita estar sempre atualizado.
 
 > <a href="https://react-bootstrap.github.io/getting-started/introduction" target="_blank">Aprenda como incluir React Bootstrap em seu projeto</a>
 
-> <a href="https://reactstrap.github.io/" target="_blank">Componentes React Bootstrap</a>
+> <a href="https://reactstrap.github.io/" target="_blank">Componentes React Bootstrap<a>
 
 > <a href="https://mdbootstrap.com/docs/standard/components/buttons/" target="_blank">Componente Bootstrap Button</a>
 
