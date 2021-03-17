@@ -6,6 +6,7 @@ import TecnologiasAtuais from './TecnologiasAtuais';
 import ExperienciaProfissional from './ExperienciaProfissional';
 import Certificacoes from './Certificacoes';
 import UltimosCommits from './UltimosCommits';
+import UltimosPosts from './UltimosPosts';
 import Footer from './Footer';
 
 
@@ -25,6 +26,8 @@ const Layout = () => {
       <Certificacoes />
       <hr></hr>
       <UltimosCommits />
+      <hr></hr>
+      <UltimosPosts />
       <hr></hr>
       <Footer />
     </div>
