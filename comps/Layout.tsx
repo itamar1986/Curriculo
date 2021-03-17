@@ -2,10 +2,12 @@ import React from 'react';
 import Header from './Header';
 import Menu from './Menu';
 import Image from 'react-bootstrap/Image';
-import Certificacoes from './Certificacoes';
 import TecnologiasAtuais from './TecnologiasAtuais';
 import ExperienciaProfissional from './ExperienciaProfissional';
+import Certificacoes from './Certificacoes';
+import UltimosCommits from './UltimosCommits';
 import Footer from './Footer';
+
 
 const Layout = () => {
   return (
@@ -21,6 +23,8 @@ const Layout = () => {
       <ExperienciaProfissional />
       <hr></hr>
       <Certificacoes />
+      <hr></hr>
+      <UltimosCommits />
       <hr></hr>
       <Footer />
     </div>
